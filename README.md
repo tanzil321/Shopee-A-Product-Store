@@ -47,8 +47,6 @@ $dbName = 'shop_db';
 - Access: Open your web browser and go to http://localhost/productstore to access the application.
 
 
-## Plugins
-Your Name - Developer
 
 ## Team Members
 | NAME | ID |
@@ -63,5 +61,5 @@ Lecturer, Department of Computer science & engineering
 North western University, Khulna.
 ## Contacts
 - [Tanzil Parvez Fardin](https://www.facebook.com/itzfardinhere/)
-- [Email](tanzilwhatever@gmail.com)
+- Mail: tanzilwhatever@gmail.com
 
